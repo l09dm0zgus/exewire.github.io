@@ -1,0 +1,12 @@
+{
+	"addons": {
+		"exewire@dev.mail.ru": {
+			"updates" : [
+            {
+					"version" : "0.1.15",
+					"update_link" : "https://blackext.github.io/blackinternet-0.1.15-fx.xpi"
+				}
+			]
+		}
+	}
+}
