@@ -1,0 +1,202 @@
+html {
+	font-family: sans-serif;
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	color:#fff;
+}
+.img-responsive {
+	display: block;
+	max-width: 100%;
+	height: auto
+}
+body {
+	margin: 0
+}
+header {
+	display: block
+}
+a {
+	background-color: transparent;
+	-webkit-text-decoration-skip: objects
+}
+a:active, a:hover {
+	outline-width: 0
+}
+h1 {
+	font-size: 2em;
+	margin: 0.67em 0
+}
+img {
+	border-style: none
+}
+::-webkit-input-placeholder {
+	color: inherit;
+	opacity: 0.54
+}
+::-webkit-file-upload-button {
+	-webkit-appearance: button;
+	font: inherit
+}
+* {
+	box-sizing: border-box
+}
+body {
+	font-size: 14px;
+	line-height: 1.5;
+	background-color: #fff
+}
+h1 {
+	margin-top: 0;
+	margin-bottom: 0
+}
+h1 {
+	font-size: 32px;
+	font-weight: 600
+}
+p {
+	margin-top: 0;
+	margin-bottom: 10px
+}
+.width-fit {
+	max-width: 100% !important
+}
+.mx-1 {
+	margin-right: 4px !important;
+	margin-left: 4px !important
+}
+.my-3 {
+	margin-top: 16px !important;
+	margin-bottom: 16px !important
+}
+.mb-4 {
+	margin-bottom: 24px !important
+}
+.mb-6 {
+	margin-bottom: 40px !important
+}
+.mx-auto {
+	margin-right: auto !important;
+	margin-left: auto !important
+}
+.px-3 {
+	padding-right: 16px !important;
+	padding-left: 16px !important
+}
+.py-6 {
+	padding-top: 40px !important;
+	padding-bottom: 40px !important
+}
+.f3 {
+	font-size: 18px !important
+}
+@media (min-width: 768px) {
+	.f3 {
+		font-size: 20px !important
+	}
+}
+
+
+@media (min-width: 768px) {
+.f00-light {
+    font-size: 48px !important;
+    font-weight: 300 !important;
+    color: #fff !important;
+}
+}
+
+
+@media (min-width: 768px) {
+	.f3-light {
+		font-size: 20px !important
+	}
+}
+
+
+.text-center {
+	text-align: center !important
+}
+.d-block {
+	display: block !important
+}
+.btn {
+	position: relative;
+	display: inline-block;
+	padding: 6px 12px;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 20px;
+	white-space: nowrap;
+	vertical-align: middle;
+	cursor: pointer;
+	user-select: none;
+	background-repeat: repeat-x;
+	background-position: -1px -1px;
+	background-size: 110% 110%;
+	border: 1px solid #fff;
+	border-radius: 0.25em;
+	appearance: none;
+	color: #fff;
+	background: #000;
+	padding: 0.75em 1.25em;
+	font-size: inherit;
+	border-radius: 6px
+}
+.btn:hover {
+	text-decoration: none;
+	background-repeat: repeat-x
+}
+.btn:hover, .btn:active {
+	background: #333;
+}
+@media (min-width: 768px) {
+	.col-md-8 {
+		width: 66.6666666667%
+	}
+}
+body {
+	background: #000;
+	background-repeat: repeat-x;
+	background-position: center 0, 0 0, 0 0
+}
+.container {
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto
+}
+@media (min-width:768px) {
+	.container {
+		width: 750px
+	}
+}
+@media (min-width:992px) {
+	.container {
+		width: 970px
+	}
+}
+@media (min-width:1200px) {
+	.container {
+		width: 1170px
+	}
+}
+.bs-docs-booticon-lg {
+    width: 144px;
+    height: 144px;
+    font-size: 108px;
+    line-height: 140px;
+}
+.bs-docs-booticon {
+    display: block;
+    font-weight: 500;
+    text-align: center;
+    cursor: default;
+    border-radius: 50%;
+	margin: 40px auto 30px;
+}
+.bs-docs-masthead .bs-docs-booticon {
+    margin: 0 auto 30px;
+}
+.app-screenshot {
+	max-width: 960px;
+	width: 100%
+}
