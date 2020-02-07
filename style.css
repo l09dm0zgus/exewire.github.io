@@ -222,6 +222,7 @@ p {
 	}
 	.bs-docs-masthead .img-responsive {
 		width: -webkit-fill-available;
+		height: -webkit-fill-available;
 	}
 }
 @media (min-width:992px) {
@@ -249,6 +250,7 @@ p {
 		margin-right: auto;
 		margin-left: auto;
 		width: -webkit-fill-available;
+		height: -webkit-fill-available;
 	}
 }
 @media (min-width:768px) {
@@ -269,6 +271,7 @@ p {
 		margin-right: auto;
 		margin-left: auto;
 		width: -webkit-fill-available;
+		height: -webkit-fill-available;
 	}
 }
 :hover>.anchorjs-link {
