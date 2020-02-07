@@ -238,7 +238,7 @@ p {
 		width: -webkit-fill-available;
 	}
 }
-@media (min-width:1024px) {
+@media (width:1024px) {
 	.bs-docs-masthead .lead {
 		width: 80%;
 		font-size: 30px
