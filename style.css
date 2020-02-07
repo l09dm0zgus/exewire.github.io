@@ -72,8 +72,8 @@ img {
 }
 .img-responsive {
 	display: block;
-	max-width: auto;
-	height: auto
+	max-width: inherit;
+	height: inherit;
 }
 h2 {
 	font-family: inherit;
