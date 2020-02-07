@@ -229,7 +229,7 @@ p {
 	margin: 0 auto 30px;
 	font-size: 20px;
 }
-@media (min-width:425px) {
+@media (min-width:125px) {
 	.img-responsive {
 		width: -webkit-fill-available!important;
 	}
