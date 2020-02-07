@@ -235,7 +235,7 @@ p {
 		height: -webkit-fill-available;
 	}
 	.img-responsive {
-		width: -webkit-fill-available;
+		width: -webkit-fill-available!important;
 	}
 }
 @media (min-width:768px) {
