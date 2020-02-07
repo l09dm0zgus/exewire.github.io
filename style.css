@@ -1,7 +1,15 @@
 * {
 	color: #fff!important;
-	-webkit-user-select: none;
-	user-select: none;
+	-webkit-user-select: none!important;
+	user-select: none!important;
+}
+[alt="ExDesk"]{
+	width: 1170px!important;
+    height: 700px!important;
+}
+[alt="Black Internet"]{
+	height: 284px!important;
+	width: 254px!important;
 }
 html {
 	font-family: sans-serif;
