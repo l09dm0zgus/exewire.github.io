@@ -72,7 +72,7 @@ img {
 }
 .img-responsive {
 	display: block;
-	max-width: inherit;
+	min-width: inherit;
 	height: inherit;
 }
 h2 {
