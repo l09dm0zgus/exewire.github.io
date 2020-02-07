@@ -224,11 +224,24 @@ p {
 		width: -webkit-fill-available;
 		height: -webkit-fill-available;
 	}
+	.img-responsive {
+		width: -webkit-fill-available;
+	}
 }
-@media (min-width:992px) {
+@media (min-width:1024px) {
 	.bs-docs-masthead .lead {
 		width: 80%;
 		font-size: 30px
+	}
+	.bs-docs-featurette .img-responsive {
+		margin-top: 30px;
+		margin-right: auto;
+		margin-left: auto;
+		width: inherit;
+		height: inherit;
+	}
+	.img-responsive {
+		width: inherit;
 	}
 }
 .bs-docs-featurette {
@@ -252,6 +265,9 @@ p {
 		width: -webkit-fill-available;
 		height: -webkit-fill-available;
 	}
+	.img-responsive {
+		width: -webkit-fill-available;
+	}
 }
 @media (min-width:768px) {
 	.bs-docs-featurette {
@@ -272,6 +288,9 @@ p {
 		margin-left: auto;
 		width: -webkit-fill-available;
 		height: -webkit-fill-available;
+	}
+	.img-responsive {
+		width: -webkit-fill-available;
 	}
 }
 :hover>.anchorjs-link {
