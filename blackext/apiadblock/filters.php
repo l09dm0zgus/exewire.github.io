@@ -6032,17 +6032,8 @@
                         "rule": "overclockers\\.ru",
                         "selectors": "#uhi,.rastyazka_regard,#contentplace .decoblock, #contentplace .decoblock-content,.submenu>[id*=\"yandex_ad_\"],.adsbygoogle,#topbanners{height:1px!important;overflow:hidden!important;display:block!important;}"
                 }, {
-                        "rule": "xxx-tracker\\.com",
-                        "selectors": "#bannerh{display: none !important;}"
-                }, {
-                        "rule": "alibaba\\.com",
-                        "selectors": "[class*=\"banner\"],[data-name=\"mm-sc-kv-banner-full\"] {display: none !important; width: 1px !important; height: 1px !important;}"
-                }, {
-                        "rule": "vz\\.ru",
-                        "selectors": "#right, #last-banner-right, #right_russia {display:none !important;}"
-                }, {
-                        "rule": "seasonvar\\.",
-                        "selectors": "body>.wrapper{max-width:1400px!important;}\nhtml>body{padding-top: 0 !important;} .svnotify.infoBox,.pgs-player>div>div[style*=\"275\"],.ololo{display:none!important;opacity:0!important;} .td-for-left-block,#lmg{display:none!important;}"
+                        "rule": "steamcommunity\\.com",
+                        "selectors": ".responsive_page_template_content{display:block!important;}.adult_content_age_gate{display:none!important;}#footer{display:block!important;}#footer_spacer{display:block!important;}"
                 }, {
                         "rule": "tfile\\.me",
                         "selectors": "#tvmir_roller, #vk_groups {display: none!important;}"
@@ -6055,9 +6046,6 @@
                 }, {
                         "rule": "onlinemultfilmy\\.ru",
                         "selectors": "#js-dialog-social-overlay {width: 1px !important; height: 1px !important; position: fixed; top: -10px; overflow:hidden !important;}"
-                }, {
-                        "rule": "nontonmovie\\.com",
-                        "selectors": "#topad, .ads, #ads_banner_left1, #floating_banner_bottom {display: none !important;}"
                 }, {
                         "rule": "aliexpress\\.com",
                         "selectors": ".top-banner-container, .home-activity-banner{display:none!important;} .advertise-main{opacity: 0!important;}"
@@ -6076,9 +6064,6 @@
                 }, {
                         "rule": "playground\\.ru",
                         "selectors": ".xaa,.user-advert-message{display:none!important;}.foundation-wrapper{background:none!important;}"
-                }, {
-                        "rule": "megashara\\.com",
-                        "selectors": ".brand_bg{background:none!important; padding-top: 0!important;} a[href*=\"binomo.com\"],.advert-content-item,.brand_click{display:none!important;}"
                 }, {
                         "rule": "horo\\.mail\\.ru",
                         "selectors": ".tooltip.tooltip_arrow_top-left.tooltip_positioned.tooltip_shown.tooltip_collapse.tooltip_width_huge,.b-context,.b-context__mailruVertical,.p-top-banner,.box__block_main{display:none!important;position:absolute;top:100%!important;left:100%!important;}"
@@ -6106,9 +6091,6 @@
                 }, {
                         "rule": "geektimes\\.ru",
                         "selectors": ".no_please_one_one_one{display:none!important;}"
-                }, {
-                        "rule": "radikal\\.ru|f-picture\\.net",
-                        "selectors": ".banerRight,.banerTop,.banerBottom{display:none!important;}body{background-image:none!important;}"
                 }, {
                         "rule": "4pda\\.ru",
                         "selectors": "body>#rmpuDodoi6o>.rpz0c>div.rmwg>#header+div#rixat4w{background-image:none!important;} aside>div>a>img[height=\"400\"],a>img[height=\"90\"]{display:none!important;position:fixed!important;left:100%!important;}"
@@ -6152,17 +6134,11 @@
                         "rule": "e\\.mail\\.ru",
                         "selectors": "#b-announcements,.message-sent__ads,#LEGO [id]>[class]>[class]>[class]>[class]>.js-href[data-id],#LEGO [id]>[class]>[class]>[class]>.js-href[data-id],#LEGO [id]>[class]>[class]>[class]>.js-href[data-id]+div,#LEGO [id]>[class]>[class]>[class]>.js-href[data-id],#LEGO [id]>[class]>[class]>[class]>.js-href[data-id]+div+div,#LEGO div[data-id] img[src^=\"data\"]{display:none!important; opacity:0!important;position:fixed!important;top:100%!important;left:100%!important;}"
                 }, {
-                        "rule": "megogo\\.net",
-                        "selectors": "#ad_counter_wrapper{display:none!important;}"
-                }, {
                         "rule": "mail\\.google\\.com",
                         "selectors": ".BltHke>.aKB{display:none!important;}"
                 }, {
                         "rule": "pikabu\\.ru",
                         "selectors": "#branding_ad_footer,#branding_ad_header{display:none!important;position:absolute; top: -400px;}"
-                }, {
-                        "rule": "ah-me\\.com",
-                        "selectors": ".DarkBg,#ad_banner,.allIM{display:none!important;}"
                 }, {
                         "rule": "2x2tv\\.ru",
                         "selectors": ".special_project_slider{display:none!important;}"
