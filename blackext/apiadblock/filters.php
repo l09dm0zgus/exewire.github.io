@@ -6084,7 +6084,7 @@
                         "selectors": "[class*=\"adv-slot\"],[id*=\"adv-slot\"]{display:none!important;opacity:0!important;width:1px!important;height:1px!important;overflow:hidden!important;}"
                 }, {
                         "rule": "habr\\.com",
-                        "selectors": ".layout__row_footer-links,.layout__row_footer,.content-list_comments .comment__folding-dotholder:before,.promo-block,.post-share,.layout__elevator,.dfp-slot,#TMpanel,.html_banner_wrap,.xyz_wrapper,.no_please_one_one_one{display:none!important;}"
+                        "selectors": ".layout__row_footer-links,.layout__row_footer,.content-list_comments .comment__folding-dotholder:before,.promo-block,.post-share,.layout__elevator,.dfp-slot,.html_banner_wrap,.xyz_wrapper,.no_please_one_one_one{display:none!important;}"
                 }, {
                         "rule": "games.mail.ru",
                         "selectors": "BODY{background-image:none!important;}.right-banner{display:none!important;}"
@@ -6107,14 +6107,8 @@
                         "rule": "pogoda\\.yandex\\.(ru|ua|by|kz)",
                         "selectors": "iframe[src*=\"stripe.html\"],.stripe_type_promo,.adv{display:none!important;} div.adlos{display:none!important;opacity:0!important;}"
                 }, {
-                        "rule": "smotri\\.com",
-                        "selectors": ".VideoViewBanner,.advert_confirm_erotic_wrapper{display:none!important;}"
-                }, {
                         "rule": "tv\\.yandex\\.",
                         "selectors": "[class*=content__]>div>div[data-url],[class*=content__]>div[class*=_position_bottom][data-url],.super-banner,.main-controller__adv,[class*=\"__adv\"],.tv-page-main>[class^=\"tv-page-main__\"]:not(.tv-page-main__headline),.tv-spin,[data-bem*=\"advId\"],.tv-page-main__superbanner,#msg.grid__item,[class^=\"content__adv\"],.tv-grid__item-adv,.adv-manager__wrapper,.adv-manager{display:none!important;position:fixed!important;left:100%!important;top:100%!important;}"
-                }, {
-                        "rule": "rabota\\.yandex\\.(ru|ua|by|kz)",
-                        "selectors": ".rtb_layout_vertical,.rtb_layout_horizontal{display:none!important;}"
                 }, {
                         "rule": "nnm\\-club\\.me",
                         "selectors": "#adss{opacity:0!important;}"
@@ -6124,9 +6118,6 @@
                 }, {
                         "rule": "gismeteo\\.",
                         "selectors": ".media_frame,.media_middle,.media_frame.x400,.media_left,#media-top,#weather-lb,#weather-left,#weather-right,#weather-right-fcontent,div.rframe#ad-lb,div.rframe#ad-left,#ad-right,#ad-right-fcontent{display:none!important;}"
-                }, {
-                        "rule": "igromania\\.ru",
-                        "selectors": "#vk-block,#footerBrand,.openXbanner{display:none!important;}.out_out{background-image:none!important;}"
                 }, {
                         "rule": "news\\.yandex\\.(ru|ua|by|kz)",
                         "selectors": ".profit__inner,.yap-block__adv-list,.yap-block__adv,.yap-block__adv>[class*=\"yap-adv\"],.banner{display:none!important;opacity:0!important;}"
@@ -6164,12 +6155,6 @@
                         "rule": "small-games\\.info",
                         "selectors": ".rek{display:none!important;}"
                 }, {
-                        "rule": "my-hit\\.org",
-                        "selectors": "div[id*=\"Composite\"],.container>div.row>div.col-xs-2>div[style*=\"width:160\"][style*=\"height:600\"],#gif_header,.mctitle,.mcprice{display:none!important;opacity:0!important;} .navbar-static-top,.navbar-default{margin-bottom:0px!important;}"
-                }, {
-                        "rule": "riavrn\\.ru",
-                        "selectors": ".ad{display:none!important;}"
-                }, {
                         "rule": "slivki\\.by",
                         "selectors": ".full-site-banner,#head-banner{display:none!important;}"
                 }, {
@@ -6193,9 +6178,6 @@
                 }, {
                         "rule": "(rustorka|rsload|only-tv|lalamus|kino-klub)\\.(org|com|net)",
                         "selectors": "a[adsda*=\"tovarro.com\"],a[href*=\"tovarro.com\"],a[adsda*=\"marketgid.com\"],a[href*=\"marketgid.com\"],a[href*=\"barberz.ru\"],a[href*=\"et-code.ru\"]{display:none!important;opacity:0!important;position:fixed!important;left:100%!important;top:100%!important;}"
-                }, {
-                        "rule": "hdrezka\\.(me|ag)",
-                        "selectors": "html>body.active-brand.pp.has-brand{padding-top:0px!important;} .b-content__columns{padding-right:0!important;} .b-post__support_holder,.b-post__social_holder_wrapper,.b-content__main>.b-post__mixedtext+div[id],.b-post__wait_status,[id^=\"bn_\"],[id*=\"skin_\"],a[href*=\"stabctbv.hdrezka.me\"],.skin-block{display:none!important;opacity:0!important;}body{padding-top:0!important;}"
                 }, {
                         "rule": "mediafire\\.com",
                         "selectors": ".ad{display:none!important;}"
