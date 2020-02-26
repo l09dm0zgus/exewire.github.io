@@ -6083,9 +6083,6 @@
                         "rule": "otvet\\.mail",
                         "selectors": "[class*=\"adv-slot\"],[id*=\"adv-slot\"]{display:none!important;opacity:0!important;width:1px!important;height:1px!important;overflow:hidden!important;}"
                 }, {
-                        "rule": "habr\\.com",
-                        "selectors": ".layout__row_footer-links,.layout__row_footer,.content-list_comments .comment__folding-dotholder:before,.promo-block,.post-share,.layout__elevator,.dfp-slot,.html_banner_wrap,.xyz_wrapper,.no_please_one_one_one{display:none!important;}"
-                }, {
                         "rule": "games.mail.ru",
                         "selectors": "BODY{background-image:none!important;}.right-banner{display:none!important;}"
                 }, {
