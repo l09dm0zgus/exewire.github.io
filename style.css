@@ -3,9 +3,12 @@
 	-webkit-user-select: none!important;
 	user-select: none!important;
 }
+*, ::after, ::before {
+	box-sizing: content-box;
+}
 [alt="ExDesk"]{
 	width: 1170px!important;
-    height: 250px!important;
+	height: 250px!important;
 }
 [alt="Black Internet"]{
 	height: 284px!important;
@@ -174,13 +177,6 @@ p {
 	line-height: 1.3333333;
 	border-radius: 6px
 }
-.container:after, .container:before {
-	display: table;
-	content: " "
-}
-.container:after {
-	clear: both
-}
 @-ms-viewport {
 	width: device-width
 }
@@ -202,13 +198,14 @@ p {
 	font-weight: 500;
 	text-align: center;
 	cursor: default;
-	border-radius: 50%
+	border-radius: 50%;
+	margin: 40px auto 30px;
 }
 .bs-docs-booticon-lg {
 	width: 144px;
 	height: 144px;
 	font-size: 108px;
-	line-height: 140px
+	line-height: 140px;
 }
 .bs-docs-booticon-outline {
 	border: 1px solid #fff;
@@ -310,4 +307,65 @@ p {
 :hover>.anchorjs-link:hover {
 	text-decoration: none;
 	opacity: 1
+}
+@media (min-width: 768px)
+.p-md-5 {
+	padding: 3rem!important;
+}
+.footer {
+	font-size: .875rem;
+	padding: 1rem!important;
+}
+.footer-links {
+	padding-left: 0;
+	margin-bottom: 1rem;
+	text-align: center;
+}
+.footer-links li {
+	display: inline-block;
+}
+.footer a {
+	font-weight: 400;
+	font-size: 15px;
+	padding-right: 5px;
+}
+.footer-info {
+	margin-bottom: 0!important;
+	text-align: center;
+	font-size: 11px;
+}
+.footer-icon {
+	display: block;
+	cursor: default;
+	border-radius: 50%;
+	margin: 0px auto 0px;
+	width: 70px;
+	height: 70px;
+	border: 1px solid #fff;
+}
+.f00-light {
+	font-size: 48px;
+	font-weight: 300;
+}
+@media (min-width:768px) {
+	.container {
+		width: 750px
+	}
+}
+@media (min-width:992px) {
+	.container {
+		width: 970px
+	}
+}
+@media (min-width:1200px) {
+	.container {
+		width: 1170px
+	}
+}
+.bs-docs-masthead .bs-docs-booticon {
+	margin: 0 auto 30px;
+}
+.app-screenshot {
+	max-width: 960px;
+	width: 100%
 }
