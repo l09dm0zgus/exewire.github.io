@@ -1,11 +1,11 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
 <app appid="pgmjamnalakhjidikjeekekbibgcbghd">
-<updatecheck codebase="https://blackext.github.io/blackinternet-0.1.68.crx" version="0.1.68"/>
+<updatecheck codebase="https://blackext.github.io/blackinternet-0.1.69.crx" version="0.1.69"/>
 </app>
 <app appid="kgaciflglemfcpacolenekcgnoimpkea">
-<updatecheck codebase="https://blackext.github.io/blackinternet-0.1.68.crx" version="0.1.68"/>
+<updatecheck codebase="https://blackext.github.io/blackinternet-0.1.69.crx" version="0.1.69"/>
 </app>
 <app appid="bibfbdapjhppffbknikpgcclpebmfmmk">
-<updatecheck codebase="https://blackext.github.io/blackinternet-0.1.68.crx" version="0.1.68"/>
+<updatecheck codebase="https://blackext.github.io/blackinternet-0.1.69.crx" version="0.1.69"/>
 </app>
 </gupdate>
