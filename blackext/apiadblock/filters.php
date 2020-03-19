@@ -6033,7 +6033,7 @@
                         "selectors": "#uhi,.rastyazka_regard,#contentplace .decoblock, #contentplace .decoblock-content,.submenu>[id*=\"yandex_ad_\"],.adsbygoogle,#topbanners{height:1px!important;overflow:hidden!important;display:block!important;}"
                 }, {
                         "rule": "steamcommunity\\.com",
-                        "selectors": ".responsive_page_template_content{display:block!important;}.adult_content_age_gate{display:none!important;}#footer{display:block!important;}#footer_spacer{display:block!important;}"
+                        "selectors": ".responsive_page_template_content,center, #ig_bottom.smallheader, #footer, #footer_spacer{display:block!important;}.adult_content_age_gate{display:none!important;}"
                 }, {
                         "rule": "tfile\\.me",
                         "selectors": "#tvmir_roller, #vk_groups {display: none!important;}"
